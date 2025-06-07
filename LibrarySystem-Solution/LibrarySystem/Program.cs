@@ -172,7 +172,10 @@ namespace LibrarySystem
                                 item.DisplayItems();
                             }
                             break;
-                        default:
+                        case 5:
+                            Console.Clear();
+                            Console.WriteLine("Thank you for using the Library System. Goodbye!");
+                            userOff = true;
                             break;
                     }
                 }
