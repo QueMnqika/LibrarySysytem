@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysystem-solution\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysysytem\\librarysystem-solution\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysystem-solution\\librarysystem\\inheritance\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysysytem\\librarysystem-solution\\librarysystem\\inheritance\\dvds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\dvds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysystem-solution\\librarysystem\\inheritance\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysystem-solution\\librarysystem\\inheritance\\magazines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysysytem\\librarysystem-solution\\librarysystem\\inheritance\\magazines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\magazines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysystem-solution\\librarysystem\\inheritance\\dvds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\dvds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysysytem\\librarysystem-solution\\librarysystem\\inheritance\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\que mnqika\\onedrive\\documents\\software development\\assignments\\librarysysytem\\librarysystem-solution\\librarysystem\\inheritance\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3077D32D-46B1-4886-BA93-620EB510A86B}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\inheritance\\libraryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,61 +34,65 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Dvds.cs",
-              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Dvds.cs",
+              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Dvds.cs",
               "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\Dvds.cs",
-              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Dvds.cs",
-              "RelativeToolTip": "LibrarySystem\\Inheritance\\Dvds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Dvds.cs*",
+              "RelativeToolTip": "LibrarySystem\\Inheritance\\Dvds.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:06:42.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Magazines.cs",
-              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Magazines.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\Magazines.cs",
-              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Magazines.cs",
-              "RelativeToolTip": "LibrarySystem\\Inheritance\\Magazines.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:06:30.134Z"
+              "WhenOpened": "2025-05-30T12:06:42.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Books.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\Books.cs",
-              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Books.cs",
-              "RelativeToolTip": "LibrarySystem\\Inheritance\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Magazines.cs",
+              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Magazines.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\Magazines.cs",
+              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Magazines.cs*",
+              "RelativeToolTip": "LibrarySystem\\Inheritance\\Magazines.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:06:09.847Z"
+              "WhenOpened": "2025-05-30T12:06:30.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibraryItems.cs",
-              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\LibraryItems.cs",
-              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\LibraryItems.cs",
-              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\LibraryItems.cs",
-              "RelativeToolTip": "LibrarySystem\\Inheritance\\LibraryItems.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Books.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\Books.cs",
+              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\Books.cs*",
+              "RelativeToolTip": "LibrarySystem\\Inheritance\\Books.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwvRYAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:05:00.406Z"
+              "WhenOpened": "2025-05-30T12:06:09.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryItems.cs",
+              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\LibraryItems.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Inheritance\\LibraryItems.cs",
+              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Inheritance\\LibraryItems.cs*",
+              "RelativeToolTip": "LibrarySystem\\Inheritance\\LibraryItems.cs*",
+              "ViewState": "AgIAAAUAAADAZmZmZmYkwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:05:00.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Program.cs",
               "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Program.cs",
               "RelativeToolTip": "LibrarySystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T12:02:38.211Z",
               "EditorCaption": ""
