@@ -164,14 +164,15 @@ namespace LibrarySystem
 
                                 break;
                         case 4:
+                            if (intChoice == 4 )
+
                             foreach (var item in libraryStock.Values)
                             {
                                 Console.Clear();
                                 item.DisplayItems();
                             }
                             break;
-                        case 5:
-                            userOff = false;
+                        default:
                             break;
                     }
                 }
