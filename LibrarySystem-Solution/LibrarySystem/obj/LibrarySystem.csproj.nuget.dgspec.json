@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-solution\\LibrarySystem\\LibrarySystem.csproj": {}
+    "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\LibrarySystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-solution\\LibrarySystem\\LibrarySystem.csproj": {
+    "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\LibrarySystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-solution\\LibrarySystem\\LibrarySystem.csproj",
+        "projectUniqueName": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\LibrarySystem.csproj",
         "projectName": "LibrarySystem",
-        "projectPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-solution\\LibrarySystem\\LibrarySystem.csproj",
+        "projectPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\LibrarySystem.csproj",
         "packagesPath": "C:\\Users\\Que Mnqika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySystem-Solution\\LibrarySystem\\obj\\",
+        "outputPath": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
