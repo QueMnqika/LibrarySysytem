@@ -31,7 +31,6 @@ namespace LibrarySystem
                     switch (intChoice)
                     {
                         case 1:
-                            Console.Clear();
                             Console.WriteLine("Choose an item to add to the library list");
                             Console.WriteLine("1. Book");
                             Console.WriteLine("2. Magazine");
@@ -41,80 +40,63 @@ namespace LibrarySystem
                             int intItemChoice = int.Parse(itemChoice);
                             if (intItemChoice == 1)
                             {
-                                Console.Clear();
                                 Console.WriteLine("What is the Book ID? (B: 0-9)");
                                 string bookId = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Book Title?");
                                 string bookTitle = Console.ReadLine();
                                     
-                                Console.Clear();
                                 Console.WriteLine("What is the Year published?");
                                 string bookYearPublished = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("Who is the Author?");
                                 string bookAuthor = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Book Genre?");
                                 string bookGenre = Console.ReadLine();
 
 
                                 LibraryItems bookItem = new Books(bookId.ToUpper(),bookTitle, bookYearPublished, bookAuthor, bookGenre);
                                 libraryStock.Add(bookId, bookItem);
-                                Console.Clear();
-                                Console.WriteLine("Book Successfully Added to the Library List!\n\n");
+                                Console.WriteLine("Book Successfully Added to the Library List!");
                             }
 
                             if (intItemChoice == 2)
                             {
-                                Console.Clear();
                                 Console.WriteLine("What is the Magazine ID? (M: 0-9)");
                                 string magazineId = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Book Title?");
                                 string magazineTitle = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Year published?");
                                 string magazineYearPublished = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Magazine issue number??");
                                 string issueNumber = Console.ReadLine();
                                 int intIssueNumber = int.Parse(issueNumber);
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Month it was realeased?");
                                 string magazineMonth = Console.ReadLine();
 
                                 LibraryItems magazineItem = new Magazines(magazineId.ToUpper(), magazineTitle, magazineYearPublished, intIssueNumber, magazineMonth);
                                 libraryStock.Add(magazineId , magazineItem);
-                                Console.Clear();
-                                Console.WriteLine("Magazine Successfully Added to the Library List!\n\n");
+                                Console.WriteLine("Magazine Successfully Added to the Library List!");
                             }
                             if (intItemChoice == 3)
                             {
-                                Console.Clear();
                                 Console.WriteLine("What is the DVD ID? (D: 0-9)");
                                 string dvdId = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the DVD Title?");
                                 string magazineTitle = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the Year published?");
                                 string dvdYearPublished = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("Who is the Director?");
                                 string dvdDirector = Console.ReadLine();
 
-                                Console.Clear();
                                 Console.WriteLine("What is the duration of the DVD? (Hrs)");
                                 string dvdHours = Console.ReadLine();
 
@@ -124,64 +106,75 @@ namespace LibrarySystem
 
                                 LibraryItems dvdItem = new Dvds(dvdId.ToUpper(), magazineTitle, dvdYearPublished, dvdDirector, $"{dvdHours} Hour(s) & {dvdmins}");
                                 libraryStock.Add(dvdId, dvdItem);
-                                Console.Clear();
-                                Console.WriteLine("DVD Successfully Added to the Library List!\n\n");
+                                Console.WriteLine("DVD Successfully Added to the Library List!");
                             }
+
+                            Console.WriteLine("\nPress Enter to return to the menu...");
+                            Console.ReadLine();
+                            Console.Clear();
+
                             break;
                         case 2:
-                            Console.Clear();
                             Console.WriteLine("Choose an item to remove from the library list");
                             string removeId = Console.ReadLine();
 
                             if (libraryStock.ContainsKey(removeId))
                             {
                                 libraryStock.Remove(removeId);
-                                Console.Clear();
-                                Console.WriteLine("Successfully removed\n\n");
+                                Console.WriteLine("Successfully removed");
                             }
                             else
                             {
-                                Console.Clear();
-                                Console.WriteLine("Item does not exist! Try Again\n\n");
+                                Console.WriteLine("Item does not exist! Try Again");
                             }
-                                break;
-                        case 3:
+
+                            Console.WriteLine("\nPress Enter to return to the menu...");
+                            Console.ReadLine();
                             Console.Clear();
+
+                            break;
+                        case 3:
                             Console.WriteLine("What is the ID of the item wanted from the library list?");
                             string itemSearch = Console.ReadLine();
 
                             if (libraryStock.ContainsKey(itemSearch))
                             {
                                 LibraryItems searchedItem = libraryStock[itemSearch];
-                                Console.Clear();
                                 searchedItem.DisplayItems();
                             }
                             else
                             {
-                                Console.Clear();
                                 Console.WriteLine("Item Not Found! Try Again");
                             }
 
-                                break;
+                            Console.WriteLine("\nPress Enter to return to the menu...");
+                            Console.ReadLine();
+                            Console.Clear();
+
+                            break;
                         case 4:
-                            if (intChoice == 4 )
+
+                            Console.Clear();
+                            Console.WriteLine("All Items in Library:\n");
 
                             foreach (var item in libraryStock.Values)
                             {
-                                Console.Clear();
                                 item.DisplayItems();
                             }
+
+                            Console.WriteLine("Press Enter to return to the menu...");
+                            Console.ReadLine();
+                            Console.Clear();
                             break;
                         case 5:
-                            Console.Clear();
-                            Console.WriteLine("Thank you for using the Library System. Goodbye!");
                             userOff = true;
+                            Console.Clear();
+                            Console.WriteLine("Exiting... Thank you for using the Library System.");
                             break;
                     }
                 }
                 catch
                 {
-                    Console.Clear() ;
                     Console.WriteLine("Invalid Choice, Try Again!");
                 }
             }
