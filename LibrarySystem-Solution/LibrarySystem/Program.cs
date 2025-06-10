@@ -66,7 +66,7 @@ namespace LibrarySystem
                                 Console.WriteLine("What is the Magazine ID? (M: 0-9)");
                                 string magazineId = Console.ReadLine();
 
-                                Console.WriteLine("What is the Book Title?");
+                                Console.WriteLine("What is the Magazine Title?");
                                 string magazineTitle = Console.ReadLine();
 
                                 Console.WriteLine("What is the Year published?");
