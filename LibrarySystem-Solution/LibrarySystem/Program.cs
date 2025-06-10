@@ -56,7 +56,7 @@ namespace LibrarySystem
                                 string bookGenre = Console.ReadLine();
 
 
-                                LibraryItems bookItem = new Books(bookId.ToUpper(),bookTitle, bookYearPublished, bookAuthor, bookGenre);
+                                LibraryItems bookItem = new Books(bookId.ToUpper(),bookTitle.ToUpper(), bookYearPublished, bookAuthor.ToUpper(), bookGenre.ToUpper());
                                 libraryStock.Add(bookId, bookItem);
                                 Console.WriteLine("Book Successfully Added to the Library List!");
                             }
@@ -79,7 +79,7 @@ namespace LibrarySystem
                                 Console.WriteLine("What is the Month it was realeased?");
                                 string magazineMonth = Console.ReadLine();
 
-                                LibraryItems magazineItem = new Magazines(magazineId.ToUpper(), magazineTitle, magazineYearPublished, intIssueNumber, magazineMonth);
+                                LibraryItems magazineItem = new Magazines(magazineId.ToUpper(), magazineTitle.ToUpper().ToUpper(), magazineYearPublished, intIssueNumber, magazineMonth.ToUpper());
                                 libraryStock.Add(magazineId , magazineItem);
                                 Console.WriteLine("Magazine Successfully Added to the Library List!");
                             }
@@ -104,7 +104,7 @@ namespace LibrarySystem
                                 string dvdmins = Console.ReadLine();
 
 
-                                LibraryItems dvdItem = new Dvds(dvdId.ToUpper(), magazineTitle, dvdYearPublished, dvdDirector, $"{dvdHours} Hour(s) & {dvdmins}");
+                                LibraryItems dvdItem = new Dvds(dvdId.ToUpper(), magazineTitle.ToUpper(), dvdYearPublished, dvdDirector.ToUpper(), $"{dvdHours} HOUR(S) & {dvdmins} MINS");
                                 libraryStock.Add(dvdId, dvdItem);
                                 Console.WriteLine("DVD Successfully Added to the Library List!");
                             }

@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T12:06:42.976Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -56,8 +55,7 @@
               "RelativeToolTip": "LibrarySystem\\Inheritance\\LibraryItems.cs",
               "ViewState": "AgIAAAUAAADAZmZmZmYkwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:05:00.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:05:00.406Z"
             },
             {
               "$type": "Document",
@@ -69,8 +67,7 @@
               "RelativeToolTip": "LibrarySystem\\Inheritance\\Books.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwvRIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:06:09.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:06:09.847Z"
             },
             {
               "$type": "Document",
@@ -82,8 +79,7 @@
               "RelativeToolTip": "LibrarySystem\\Inheritance\\Magazines.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:06:30.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:06:30.134Z"
             },
             {
               "$type": "Document",
@@ -93,7 +89,7 @@
               "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
               "ToolTip": "C:\\Users\\Que Mnqika\\OneDrive\\Documents\\Software Development\\Assignments\\LibrarySysytem\\LibrarySystem-Solution\\LibrarySystem\\Program.cs",
               "RelativeToolTip": "LibrarySystem\\Program.cs",
-              "ViewState": "AgIAADsAAAAADAAAAADgv0QAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAEAAAAADgv2oAAAC4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T12:02:38.211Z",
               "EditorCaption": ""
